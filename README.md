@@ -1,4 +1,4 @@
-# README para Script de Captura y Procesamiento PCAP
+# Exfiltrador de data vía ICMP
 
 ## Descripción
 
